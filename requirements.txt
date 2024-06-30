@@ -1,0 +1,5 @@
+llama-index==0.10.50
+llama-index-embeddings-cohere==0.1.9
+llama-index-readers-file==0.1.25
+python-dotenv==1.0.1
+llama-index-llms-anthropic==0.1.15
