@@ -1,6 +1,10 @@
 # Agentic RAG Service 
 
+
 This project leverages the **[🦙 Llama-Agents 🤖](https://github.com/run-llama/llama-agents)** framework to build a sophisticated **multi-agent** system that integrates a **retrieval-augmented generation (RAG)** approach using the **llama-index query engines** and a **powerful LLM** for enhanced information retrieval and processing.
+
+![system_diagram](https://github.com/Kirouane-Ayoub/Agentic-RAG-Service/assets/99510125/51e7ed55-8b9f-424b-85ea-f8a898633d7f)
+
 
 ## Overview
 This project sets up an llama-agents framework with the following key components:
